@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Test #1",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Test #2",
+      "live": "https://app.netlify.app/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
